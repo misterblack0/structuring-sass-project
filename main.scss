@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+// 1. Settings
+@import 
+	"settings/global";
+  
+// 2. Design Tokens
+@import
+  "design-tokens/colors",
+  "design-tokens/fonts",
+  "design-tokens/media-queries",
+  "design-tokens/spacing",
+  "design-tokens/typography";
+
+...
